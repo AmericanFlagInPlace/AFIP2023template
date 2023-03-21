@@ -1,0 +1,11 @@
+{
+    "templates":
+        {
+            "name": "AFIP flag",
+            "sources": [
+                "https://img.snellco.net/AFIP/FALG/PLACE_2_FLAG.png"
+            ],
+            "x": 773,
+            "y": 422
+        }  
+}
